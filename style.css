@@ -1,0 +1,13 @@
+.yellow-b {
+    background-color: yellow;
+    border: solid;
+}
+.orange-b {
+    background-color: orange;
+    border: solid;
+}
+.box {
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+}
